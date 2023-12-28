@@ -1,4 +1,4 @@
-# productapp
+# Product List with GetX, Dio in Flutter
 
 A new Flutter project with Dio and GetX Framework for Product list
 
