@@ -2,7 +2,8 @@
 
 A new Flutter project with Dio and GetX Framework for Product list
 
-![Uploading localhost_59742_.png…]()
+![localhost_59742_](https://github.com/AndroidManikandan5689/mvvm_getx_productlist_flutter/assets/16814209/08dc8bad-d7aa-49ed-9c4b-90db476dfdf0)
+
 
 
 ## Getting Started
