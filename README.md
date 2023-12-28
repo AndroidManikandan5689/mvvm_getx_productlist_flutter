@@ -1,6 +1,9 @@
 # productapp
 
-A new Flutter project.
+A new Flutter project with Dio and GetX Framework for Product list
+
+![Uploading localhost_59742_.png…]()
+
 
 ## Getting Started
 
